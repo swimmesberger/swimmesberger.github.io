@@ -1,0 +1,15 @@
+google_analytics_id: Test
+
+impressum:
+  name: Simon Wimmesberger
+  street: Etnischberg 2
+  city: A-4714, Meggenhofen
+  country: Österreich
+
+include:
+  - .htaccess
+  
+timezone: Europe/Vienna
+
+footer:
+  name: Multitube

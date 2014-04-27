@@ -1,0 +1,1566 @@
+{
+    "teams": [
+        {
+            "name": "Zomger",
+            "member": [
+                {
+                    "name": "GermanLetsPlay",
+                    "url": "GermanLetsFail"
+                },
+                {
+                    "name": "Zombey",
+                    "url": "Zombey"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "AKOM9vwpNgc",
+                        "IPWlTxv3MZ8"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "qCp0YLjk0Sw",
+                        "j3EUmpM6vww"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "-FjV2sHMyxY",
+                        "-irwCQL3ZmU"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "y0GDi1xO1Bk",
+                        "VntKI7i3FQo"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "cnaGvX2fIRs",
+                        "bI2-Io4PN3U"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "avQD9KOnzSc",
+                        "ups9idVi0Sw"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "uQpCztbZUMY",
+                        "Txf_aYx0zWs"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "dWzHu1i03Js",
+                        "ZZqN_d5FRus"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "qOlZ7yxrPoc",
+                        "p2le-_RCFsY"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "UumvOpyAazs",
+                        "NJXEud6LGdk"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Ungetadelt",
+            "member": [
+                {
+                    "name": "Taddl",
+                    "url": "letstaddl"
+                },
+                {
+                    "name": "Ungespielt",
+                    "url": "ungespielt",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "hjlz0vKCPzA"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "406cuj1wVqU"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "YfTEmHUepwM"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "_cySHkPIsg0",
+                        "90_ic1VM9c0"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "xKqO0ahdp0M",
+                        "QwjXQwZCsZc"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "fzQCSvo_B7Y",
+                        "PYyQy7XHUdU"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "hYdei2LI3j0",
+                        "4kUrSmYVB_Y"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "Zg3PEZdRhKc",
+                        "IhpdfnK8gME"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "LmqqprZFB2E",
+                        "wsXe9MvyeqM"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "2WvujSss9eQ",
+                        "y7YSvqmfe_0"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "AnyArtLP u. GamerKlinik",
+            "member": [
+                {
+                    "name": "AnyArtLP",
+                    "url": "anyartlp",
+                    "dead": true
+                },
+                {
+                    "name": "GamerKlinik",
+                    "url": "GamerKlinik"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#9",
+                    "ids": [
+                        "GyMlEPU_rSI"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "C2cnHejBh24"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "FvWd6nQVdlQ"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "gscNazcQfZQ"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "fBcAdR7J_-c"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "KfKJBfWVjv4"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "7Pf7p7ZJ7aQ"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "vuTyLOL7vwI"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "T4XOKvcFGcw",
+                        "Rb6fw760c28"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "AviveHD u. KranCrafter",
+            "member": [
+                {
+                    "name": "AviveHD",
+                    "url": "AviveHD"
+                },
+                {
+                    "name": "KranCrafter",
+                    "url": "KranCrafter"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#8",
+                    "ids": [
+                        "2DgvkY6xKgI",
+                        "nBBtaqlCnx8"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "LC9FDJuzRSQ",
+                        "mGVtRqGbG1E"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "ZDEu7rPZ52U",
+                        "twkegVY6Mwg"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "aywhMqVUowo",
+                        "-v_3YrpSWB4"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "eHR3ofc5o_Y",
+                        "MEjhmXB7-3c"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "V9IkwJl5Duw",
+                        "PIPtgLIrHYU"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "94M4dhgu16g",
+                        "BURVfzCPgIA"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "ILcQ7SVpEGY",
+                        "tnEz65SEjfs"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "BrokenThumbsTV",
+            "member": [
+                {
+                    "name": "BrokenThumbsTV",
+                    "url": "BrokenThumbsTV"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#9",
+                    "ids": [
+                        "hNc0tL6YjMA"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "4e8TpzhEl2g"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "s6egBFk6U20"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "zjGsxeaI2MQ"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "R2TaITnSonY"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "qUehqkZVlFw"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "MdTv25A0h-o"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "Lrb_DBFjGJU"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "pphx-owkgZs"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Stegi u. MinecraftExpert",
+            "member": [
+                {
+                    "name": "MinecraftExpert",
+                    "url": "MinecraftExpertDE",
+                    "dead": true
+                },
+                {
+                    "name": "Stegi",
+                    "url": "byStegi",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#6",
+                    "ids": [
+                        "kItU9Cg-vVE"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "mfhE_fdFjjk",
+                        "8irfeUPdtcc"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "Ni0y0oPJCjk"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "v-zAdInvXhU"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "2435jGFciT4"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "AB_zOO-hVL0",
+                        "aRtqi_0mB6s"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "MrMoregame u. CastCrafter",
+            "member": [
+                {
+                    "name": "MrMoregame",
+                    "url": "MrMoregame"
+                },
+                {
+                    "name": "CastCrafter",
+                    "url": "CastCrafter"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "tD3qzVgR_JY",
+                        "8ANf1gbDw80"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "HJkL3n8zvKE",
+                        "zvrc7KEL9AQ"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "XzAhuFLqQT8",
+                        "zBul6EiZNI0"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "_DEU2JXJVzk",
+                        "g1v-B91POJY"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "LywLIzPOp1w",
+                        "rLWL54kByf4"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "grYQ7EbBY9I",
+                        "SkT33KnuvB4"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "v03_08HpHpQ",
+                        "4tArYN10SxU"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "HlaX2a5h4fI",
+                        "hva4e1Zv7dA"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "QWcu5G2YLFY",
+                        "fQMsP3wTZug"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "d6pKzGdw7a8",
+                        "cctMscrNxoU"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "ConCrafter u. TheKedosZone",
+            "member": [
+                {
+                    "name": "ConCrafter",
+                    "url": "ConCrafter"
+                },
+                {
+                    "name": "TheKedosZone",
+                    "url": "TheKedosZone"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "s7uDJXVv53c"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "Up865FlIPnk",
+                        "W4oTph7BRPE"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "5853538mq0A",
+                        "AaahgPpyJzg"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "g-irPBbuI5w",
+                        "rWFIntJAQWE"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "jqvwf5XBgVo",
+                        "IMsJ5WRSOQQ"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "SttONgfciX8",
+                        "ag6007Sgwiw"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "SbsGP5h3UaY",
+                        "v8x4vmgi-cY"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "qzbf_uXkm-c",
+                        "svBepupq22I"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "ur0LZ5XIcgA",
+                        "8bH7mV4J1vQ"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "ygX0tuMYvu8",
+                        "MfFixGrtEhA"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "DebitorLP u. Rewinside",
+            "member": [
+                {
+                    "name": "DebitorLP",
+                    "url": "DebitorLP"
+                },
+                {
+                    "name": "Rewinside",
+                    "url": "rewinside"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#8",
+                    "ids": [
+                        "DTzXDooagJQ",
+                        "FxZ03LrBNWg"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "Uins8_sqkQE",
+                        "Qe6HXn_G6XE"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "AyOzoO8quUc",
+                        "s53ceBtQmNQ"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "hN5Q9AYeCaM",
+                        "EXuBI6Ex86c"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "MTdg6FiVuRU",
+                        "KcT6etb5Hzc"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "y7hGaGM6ATc",
+                        "aX9Gl1yCGRw"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "XMlqCitrIEQ",
+                        "RNTUe-BijrQ"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "fP5LvZCcEGM",
+                        "oabxd6Ss0n8"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "DelayLP u. HollyLP",
+            "member": [
+                {
+                    "name": "DelayLP",
+                    "url": "DelayLP"
+                },
+                {
+                    "name": "HollyLP",
+                    "url": "H0llyLP"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "2z36byW-ArU",
+                        "n1DbPlxfH1k"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "J7HL36O0gdw",
+                        "5T-MZscn9-8"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "TrAqFaEV3t0",
+                        "y_uoewKC5aM"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "WVmS0k9gROY",
+                        "0PSBdbVHHo0"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "7aKJv7TPH4Q",
+                        "2-e4QmOXlXI"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "cqvx1wOz86U",
+                        "0ghfCYReyq0"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "3cIH3k58eUk",
+                        "FK1vS89-GOE"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "kr68beYU7Ik",
+                        "UqYOQjXNtRI"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "68FaaL-ZfZg",
+                        "JRT6bV5KMCg"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "HUNZyPF0fH0",
+                        "TeHBOL-kWHQ"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Dner u. HerrBergmann",
+            "member": [
+                {
+                    "name": "Dner",
+                    "url": "DnerMC",
+                    "dead": true
+                },
+                {
+                    "name": "HerrBergmann",
+                    "url": "HerrBergmannLP",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#7",
+                    "ids": [
+                        "hfQ5E0W_A3g",
+                        "Zl4PlrDz4L8"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "MwufHYeh95Q",
+                        "fJjmH1Sk5Sw"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "kt6qr41Asjg",
+                        "nKDv2LN8VtY"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "WgWaYX1Qun8",
+                        "9mL-eO2LxTs"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "AAB4XZaI0fo",
+                        "72dknY-rFhA"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "d50UWCJQa0U",
+                        "mxjIiRNfrio"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "OYoVszmBmXI",
+                        "fMu6ERtgYFA"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Dootox u. Shuffle",
+            "member": [
+                {
+                    "name": "Dootox",
+                    "url": "Dootox",
+                    "dead": true
+                },
+                {
+                    "name": "Shuffle",
+                    "url": "ShuffleLP",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#4",
+                    "ids": [
+                        "vZ6-WrGDLew"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "LYpRelMgsjk",
+                        "hkdSAHlngKA"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "CQx8XnvpdIE"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "8Wh4Dle2r6M"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Earliboy u. PXLWLF",
+            "member": [
+                {
+                    "name": "Earliboy",
+                    "url": "earliboy"
+                },
+                {
+                    "name": "PXLWLF",
+                    "url": "PXLWLF",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#9",
+                    "ids": [
+                        "P7SuIB9mvbk"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "j_KpmTFml94"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "t_ogdqN-Qks"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "Zo5LuX_iBjo"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "KPKQaN8WTJw"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "ObNg0DMeUSI"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "04cXHnFF4F4",
+                        "XvgqklwwDFI"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "Wupf2fUyaxY",
+                        "lsWXN0wuW7k"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "Gst4cMubOz8",
+                        "Tvu6y6OPESA"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Team HD",
+            "member": [
+                {
+                    "name": "GommeHD",
+                    "url": "GommeHD",
+                    "dead": true
+                },
+                {
+                    "name": "ZeronikHD",
+                    "url": "ZeronikHD"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "k2DRoM5Xmg4"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "6jtY9pf_gC8"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "Yg6xfd2uSOc"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "GQf4C7BZkeM",
+                        "MRWOj6dQI6I"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "zT-_E-CleQ0",
+                        "ozSJH_fZBLc"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "t3Gc-Xzd4ww",
+                        "cclGKch9CZ4"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "tT5cUiZAr7s",
+                        "OYxMHQJfaQs"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "Ln0Jq02G6Dk",
+                        "xZUEq-a0TJQ"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "V826TRZmuNI",
+                        "bKqvbUbwG74"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "DQy3HIKPMHc",
+                        "CNKTiNrlzqI"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Kev u. Brammen",
+            "member": [
+                {
+                    "name": "Kev",
+                    "url": "LPmitKev",
+                    "dead": true
+                },
+                {
+                    "name": "Brammen",
+                    "url": "PietSmittie",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#1",
+                    "ids": [
+                        "Q1HHPFW3cAs",
+                        "DYN2G8wE-E0"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Paluten u. Sturmwaffel",
+            "member": [
+                {
+                    "name": "Paluten",
+                    "url": "Paluten"
+                },
+                {
+                    "name": "Sturmwaffel",
+                    "url": "SturmwaffelLP"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "CNrWO4bJb0E",
+                        "AsV_HomR-1k"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "r8GhHCmFdbA",
+                        "xND8ka5dtNw"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "hCq3C26fQes",
+                        "WrPXAyU1-2g"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "bwakOnn4uCc",
+                        "NTx51oroPQU"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "fXRKkDY1jxk",
+                        "sslw-A6Mddc"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "HkIZKphCTJM",
+                        "_-u7o6QSv1M"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "TI-2xOhISDI",
+                        "kG1wfX_hPUY"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "fKG3FFrCBKg",
+                        "oa8SLZ46jt4"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "NPDpvLZQegw",
+                        "2QwLmQHBIdM"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "GunJj9Z-GkQ",
+                        "CH2LpxxsjLA"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Petrit u. Deadsheap",
+            "member": [
+                {
+                    "name": "Petrit",
+                    "url": "PetritLP"
+                },
+                {
+                    "name": "Deadsheap",
+                    "url": "TheDeadsheap",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "AyFXnFYzofg"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "SFz-XNwqiB4"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "xAFSYalC4eo"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "kW2rABe7n10"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "gw4Q4c7boUQ"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "gOaAcRWnR9k"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "FMvdYJ_qvN0"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "A8JMOaoByWo"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "uzMCg276axk"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "q2DcaeJB-dk"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Porkis",
+            "member": [
+                {
+                    "name": "PorkchopMedia",
+                    "url": "POCHMedia"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "52t1pvT28jQ"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "1jzwqDjfa4s"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "O6BKKTxqTjQ"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "l1BjjSF1lnc"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "ZTeiJNLi0Uo"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "PI8-XOlUPKQ"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "tZGhZD3GqUI"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "PWBEL0D5SrQ"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "MGe9kMt2rn0"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "HUBKvWIEaOk"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Kadl u. Rotpilz",
+            "member": [
+                {
+                    "name": "Kadl",
+                    "url": "QuotenKadl",
+                    "dead": true
+                },
+                {
+                    "name": "Rotpilz",
+                    "url": "Rotpilz",
+                    "dead": true
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#3",
+                    "ids": [
+                        "u3TGap1CvPQ",
+                        "WJnHBPUQ7ck"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "EJul7jArohc",
+                        "u4_tYQxOsvg"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "zm3P03aa8CA",
+                        "c1PQryPRr84"
+                    ],
+                    "part": 1
+                }
+            ]
+        },
+        {
+            "name": "Sibst u. Spark",
+            "member": [
+                {
+                    "name": "Sibst",
+                    "url": "SibstLP"
+                },
+                {
+                    "name": "Spark",
+                    "url": "SparkofPhoenix"
+                }
+            ],
+            "parts": [
+                {
+                    "name": "#10",
+                    "ids": [
+                        "0QR-grVqv4c",
+                        "Vpi6-SSIep4"
+                    ],
+                    "part": 10
+                },
+                {
+                    "name": "#9",
+                    "ids": [
+                        "UXj4ZJBjoF0",
+                        "sCLZQQEaB1o"
+                    ],
+                    "part": 9
+                },
+                {
+                    "name": "#8",
+                    "ids": [
+                        "2-PXA8kjj4A",
+                        "G33F1JGPWKQ"
+                    ],
+                    "part": 8
+                },
+                {
+                    "name": "#7",
+                    "ids": [
+                        "cEvTQ9a144Y",
+                        "bjI6KC3WTtk"
+                    ],
+                    "part": 7
+                },
+                {
+                    "name": "#6",
+                    "ids": [
+                        "wRvRAWd4Q5o",
+                        "xiPXRNermg8"
+                    ],
+                    "part": 6
+                },
+                {
+                    "name": "#5",
+                    "ids": [
+                        "IxrdABK_-z0",
+                        "t-0IIaZYsp4"
+                    ],
+                    "part": 5
+                },
+                {
+                    "name": "#4",
+                    "ids": [
+                        "Mc0_9tL3X3c",
+                        "V9yQd7sn82M"
+                    ],
+                    "part": 4
+                },
+                {
+                    "name": "#3",
+                    "ids": [
+                        "Tcwg7wySwPk",
+                        "NJrGCzpi7F4"
+                    ],
+                    "part": 3
+                },
+                {
+                    "name": "#2",
+                    "ids": [
+                        "YZ2pWcdBruE",
+                        "4JhRghNGL00"
+                    ],
+                    "part": 2
+                },
+                {
+                    "name": "#1",
+                    "ids": [
+                        "v64dR99CRbQ",
+                        "QmwUm1hsx38"
+                    ],
+                    "part": 1
+                }
+            ]
+        }
+    ]
+}
